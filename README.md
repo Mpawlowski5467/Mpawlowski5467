@@ -20,11 +20,11 @@
 - 📚 Learning new frameworks and technologies
 
 ## GitHub Stats
-![Mateusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+![Mateusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mpawlowski5467&show_icons=true&theme=dark)
 
 ## Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/mateusz-pawlowski-823849302/)
+- 📧 Email: mpawlowski5467@gmail.com
 
 ---
-⭐️ From [Mateusz](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ From [Mateusz](https://github.com/Mpawlowski5467)
