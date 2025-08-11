@@ -19,8 +19,28 @@
 - 🔧 Automation scripts and tools
 - 📚 Learning new frameworks and technologies
 
-## GitHub Stats
-![Mateusz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mpawlowski5467&show_icons=true&theme=dark)
+## GitHub Activity
+
+<!-- GitHub Stats with more detailed info -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mpawlowski5467&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpawlowski5467&layout=compact&theme=tokyonight"/>
+</div>
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mpawlowski5467&theme=tokyonight&hide_border=true"/>
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mpawlowski5467&theme=tokyo-night&hide_border=true&area=true"/>
+</div>
+
+<!-- Trophy Display -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mpawlowski5467&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7"/>
+</div>
 
 ## Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mateusz-pawlowski-823849302/)
