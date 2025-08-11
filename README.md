@@ -52,16 +52,8 @@ Tech Enthusiast
 <!-- GitHub Stats with more detailed info -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mpawlowski5467&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpawlowski5467&layout=compact&theme=tokyonight"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpawlowski5467&layout=compact&theme=tokyonight"/>
 </div>
-
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mpawlowski5467&theme=tokyo-night&hide_border=true&area=true"/>
-</div>
-
-
 
 ## Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mateusz-pawlowski-823849302/)
