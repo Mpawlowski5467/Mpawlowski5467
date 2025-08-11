@@ -27,20 +27,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpawlowski5467&layout=compact&theme=tokyonight"/>
 </div>
 
-<!-- GitHub Streak Stats -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mpawlowski5467&theme=tokyonight&hide_border=true"/>
-</div>
 
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mpawlowski5467&theme=tokyo-night&hide_border=true&area=true"/>
 </div>
 
-<!-- Trophy Display -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mpawlowski5467&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7"/>
-</div>
 
 ## Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/mateusz-pawlowski-823849302/)
