@@ -8,7 +8,7 @@
    | |    | | (_| | ||  __/ |_| \__ \/ /   
    \_|    |_/\__,_|\__\___|\__,_|___/___|  
                                           
-   Full-Stack Developer & Tech Enthusiast
+Tech Enthusiast
 ```
 
 ## About Me
@@ -20,29 +20,7 @@
 
 ## 💻 Tech Stack & Tools
 
-```javascript
-const backend = [
-    "JavaScript", "Python", "Node.js", "PHP", "Java", "C#"
-];
 
-const frontend = [
-    "HTML5", "CSS3", "React", "Tailwind CSS", "Vue.js"
-];
-
-const databases = {
-    relational: "SQL",
-    noSQL: "MongoDB"
-};
-
-function getPlatforms() {
-    return [
-        "OneReach.ai", "OpenAI", "Anthropic Claude", 
-        "Google Gemini", "Postman"
-    ];
-}
-
-// Ready to build amazing things! 🚀
-```
 
 ### Backend
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
