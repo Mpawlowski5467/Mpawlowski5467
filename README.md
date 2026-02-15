@@ -1,30 +1,18 @@
-<!-- ============================= -->
-<!--        HEADER / HERO          -->
-<!-- ============================= -->
+<!-- ================================= -->
+<!--            HEADER                 -->
+<!-- ================================= -->
 
 <h1 align="center">Mateusz Pawlowski</h1>
-<p align="center">
-  Software Development • Systems • Automation • Data
-</p>
 
 <p align="center">
-  Building practical systems, automation workflows, and scalable solutions.
+  Software Development • Automation • Systems • Data
 </p>
-
----
-
-## About Me
-
-- Software development and system infrastructure
-- Automation, integrations, and backend logic
-- Continuous learning across frameworks and platforms
-- Focused on efficient, maintainable technical solutions
 
 ---
 
 ## Tech Stack
 
-### Programming Languages
+### Programming
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -33,7 +21,7 @@
 
 ---
 
-### Frontend & UI
+### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -55,29 +43,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-### AI & Platforms
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
----
-
-## Current Focus
-
-- Automation workflows and integrations  
-- Backend services and APIs  
-- Data pipelines and processing  
-- Infrastructure and system optimization  
-
----
-
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mpawlowski5467&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mpawlowski5467&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
