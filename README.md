@@ -2,51 +2,40 @@
 
 # Mateusz Pawlowski
 
+<a href="https://github.com/Mpawlowski5467">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Associate+%40+Reyes+Holdings;Automating+workflows+with+OneReach.ai;Building+Loom+%E2%80%94+local-first+AI+memory;Homelabber+%C2%B7+Proxmox+%C2%B7+Self-hosting" alt="Typing SVG" />
+</a>
+
 **Software · Automation · Homelabbing · Hardware**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateusz-pawlowski-823849302/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpawlowski5467@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=Mpawlowski5467&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+### 👋 About Me
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
+I'm an **AI Associate at Reyes Holdings**, where I use AI to streamline and automate business processes — building skills and workflows on the **[OneReach.ai](https://onereach.ai)** platform. Outside of work I build self-hosted tools, run a homelab, and tinker with local LLMs.
 
-### Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+---
 
-### Cloud & Auth
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![MSAL](https://img.shields.io/badge/MSAL-2F2F2F?style=flat-square&logo=microsoft&logoColor=white)
+### 🛠️ Tech Stack
 
-### AI & Inference
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-6566F1?style=flat-square&logo=openai&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,py,java,cs,php,mysql,html,css,react,vue,tailwind,nodejs,fastapi,postgres,mongodb,azure,linux,docker,git,postman&perline=10" alt="Tech stack icons" />
+</p>
 
-### Infrastructure & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<p align="center">
+  <a href="https://onereach.ai"><img src="https://img.shields.io/badge/OneReach.ai-111827?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNSIgaGVpZ2h0PSIzMyIgdmlld0JveD0iMCAwIDM1IDMzIiBmaWxsPSJub25lIj4gPHBhdGggZD0iTTM0LjM4NDggMTIuNTY4OEMzMy42NTk4IDkuMzQyNCAzMS45MzAyIDYuNDE0NTUgMjkuNDMzNyA0LjE4NzQ5QzI2LjkzNzIgMS45NjA0MyAyMy43OTYzIDAuNTQzNDM2IDIwLjQ0MjQgMC4xMzExNzdDMTAuMzE0NSAtMS4wNjUyMiAxLjYxODYxIDYuMDYzOTUgMS42NTk1MiAxNS43MjQzQzEuNjU3MTIgMTYuNDY0MSAxLjcwODY2IDE3LjIwMzEgMS44MTM3NCAxNy45MzU3QzEuODIyODggMTguMDAyOCAxLjg1NjYyIDE4LjA2NDQgMS45MDg3IDE4LjEwOTFDMS45NjA3OSAxOC4xNTM4IDIuMDI3NjkgMTguMTc4NSAyLjA5Njk5IDE4LjE3ODZINC45Mjk1NEM0Ljk2OTI5IDE4LjE4MDUgNS4wMDg5NSAxOC4xNzM0IDUuMDQ1NDMgMTguMTU3OUM1LjA4MTkxIDE4LjE0MjMgNS4xMTQyMSAxOC4xMTg3IDUuMTM5ODEgMTguMDg4OUM1LjE2NTQxIDE4LjA1OTIgNS4xODM2MSAxOC4wMjQgNS4xOTI5OSAxNy45ODYyQzUuMjAyMzggMTcuOTQ4NCA1LjIwMjY5IDE3LjkwOSA1LjE5MzkxIDE3Ljg3MTFDNS4wNjE0OSAxNi45NDI3IDUuMDQxNDIgMTYuMDAyMiA1LjEzNDExIDE1LjA2OTJDNS43OTgxOCA3Ljg2NjI0IDEyLjU5MzEgMi40OTAxNCAxOS41MDE0IDMuMTQ1MjRDMjYuNDA5NyAzLjgwMDMzIDMxLjQ1NzkgMTAuMTc2IDMwLjcyNzcgMTcuMzg4MkMyOS45OTc1IDI0LjYwMDQgMjQuNDg5OCAyOS40MTM3IDE3LjU1MDEgMjkuNDIyOUMxNi4yMzc3IDI5LjQxMDYgNy44NTMzNSAyOS4zODI5IDYuOTA5MTcgMjkuMzgyOUgxLjMzNTM1QzEuMjk5MjMgMjkuMzgyMSAxLjI2MzY3IDI5LjM5MTkgMS4yMzMzNSAyOS40MTExQzEuMjAzMDIgMjkuNDMwMyAxLjE3OTM0IDI5LjQ1OCAxLjE2NTQgMjkuNDkwNkwwLjMyODIyNyAzMS4zNzI4TDAuMDEzNTAwMyAzMi4wOTg3QzAuMDAwODg2NzU0IDMyLjEzMzUgLTAuMDAyOTY1MDggMzIuMTcwOCAwLjAwMjI2OTUyIDMyLjIwNzVDMC4wMDc1MDQxMSAzMi4yNDQxIDAuMDIxNjcxNyAzMi4yNzg5IDAuMDQzNTc4IDMyLjMwOTFDMC4wNjU0ODQzIDMyLjMzOTIgMC4wOTQ0ODczIDMyLjM2MzggMC4xMjgxNDIgMzIuMzgwN0MwLjE2MTc5NyAzMi4zOTc2IDAuMTk5MTE3IDMyLjQwNjQgMC4yMzY5NTcgMzIuNDA2MkMyLjQwNTQzIDMyLjQwNjIgNS4wODY5IDMyLjQwNjIgOS40ODA0OSAzMi40MDYySDExLjkxMzNDMTQuMTg4OCAzMi40MDYyIDE2LjAwNDggMzIuNDA2MiAxOC4yMDc5IDMyLjQwNjJDMjguNTYyNCAzMi40NTg1IDM2LjcxNyAyMy4wOTAzIDM0LjM4NDggMTIuNTY4OFoiIGZpbGw9IndoaXRlIj48L3BhdGg+IDwvc3ZnPg==" alt="OneReach.ai" /></a>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/OpenRouter-6566F1?style=for-the-badge&logo=openrouter&logoColor=white" alt="OpenRouter" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/MSAL-2F2F2F?style=for-the-badge&logo=microsoft&logoColor=white" alt="MSAL" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+</p>
 
 ---
 
@@ -60,17 +49,48 @@ A self-hosted knowledge engine that turns scattered notes and conversations into
 - **Knowledge graph UI** — React + Sigma.js frontend visualizes memories as an explorable graph
 - **Stack** — FastAPI · LanceDB · React · Sigma.js · Ollama
 
-🔗 **[View the repo →](LOOM_REPO_URL_HERE)**
+🔗 **[View the repo →](https://github.com/Mpawlowski5467/Loom)**
 
 ---
 
-<div align="center">
+### 🖥️ Homelab
 
-#### What I'm Working On
+A portable, self-hosted lab running on Proxmox.
 
-🧵 &nbsp; Building **Loom** — a local-first AI memory system with a multi-agent backend
-🤖 &nbsp; Self-hosting local LLMs on 3060 12gb
-🖥️ &nbsp; Running a portable Proxmox homelab — RackMate T1 rack, ThinkCentre M75q node, Pi-hole, WireGuard, Immich
-🐧 &nbsp; Daily drivers: **Omarchy** desktop · **MacBook Air M2** · **ThinkPad T14**
+<p>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/Pi--hole-96060C?style=flat-square&logo=pihole&logoColor=white" alt="Pi-hole" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" alt="WireGuard" />
+  <img src="https://img.shields.io/badge/Immich-4250AF?style=flat-square&logo=immich&logoColor=white" alt="Immich" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+</p>
 
-</div>
+| Component | Details |
+|---|---|
+| **Rack** | RackMate T1 |
+| **Compute node** | Lenovo ThinkCentre M75q — Proxmox VE |
+| **GPU** | NVIDIA RTX 3060 12GB — local LLM inference |
+| **Networking** | Pi-hole (DNS / ad-blocking) · WireGuard (remote access) |
+| **Services** | Immich (photo backup) |
+
+```mermaid
+flowchart LR
+    Remote["📱 Remote devices"] -- WireGuard --> Lab
+    subgraph Lab["RackMate T1"]
+        PVE["ThinkCentre M75q<br/>Proxmox VE"]
+        PVE --> PH["Pi-hole"]
+        PVE --> IM["Immich"]
+        PVE --> WG["WireGuard"]
+    end
+    GPU["RTX 3060 12GB<br/>Ollama"] --- Lab
+```
+
+---
+
+### 🚀 What I'm Working On
+
+- 💼 &nbsp;Automating business processes as an **AI Associate at Reyes Holdings** with **OneReach.ai**
+- 🧵 &nbsp;Building **[Loom](https://github.com/Mpawlowski5467/Loom)** — a local-first AI memory system with a multi-agent backend
+- 🤖 &nbsp;Self-hosting local LLMs on an **RTX 3060 12GB**
+- 🖥️ &nbsp;Expanding the homelab — more self-hosted services on Proxmox
+- 🐧 &nbsp;Daily drivers: **Omarchy** desktop · **MacBook Air M2** · **ThinkPad T14**
