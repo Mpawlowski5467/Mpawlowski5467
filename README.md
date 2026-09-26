@@ -64,7 +64,7 @@ A self-hosted knowledge engine that turns scattered notes and conversations into
 - **Ten sports** — basketball, baseball, soccer, hockey, football, tennis, MMA, golf, motorsport, and volleyball
 - **Live everything** — auto-refreshing scores, box scores, race and golf leaderboards, and playoff brackets
 - **Push notifications** via ntfy — game starts, finals, and injury alerts for players you follow
-- **Runs anywhere** — \`docker compose up\` as a server, or a native macOS app with the backend bundled in
+- **Runs anywhere** — `docker compose up` as a server, or a native macOS app with the backend bundled in
 - **Private by design** — no accounts, no tracking, no API keys
 - **Stack** — FastAPI · React · Vite · Bun · PostgreSQL · Redis · MapLibre · Tauri
 
