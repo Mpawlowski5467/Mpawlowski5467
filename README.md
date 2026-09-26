@@ -3,7 +3,7 @@
 # Mateusz Pawlowski
 
 <a href="https://github.com/Mpawlowski5467">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Associate+%40+Reyes+Holdings;Automating+workflows+with+OneReach.ai;Building+Loom+%E2%80%94+local-first+AI+memory;Homelabber+%C2%B7+Proxmox+%C2%B7+Self-hosting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Associate+%40+Reyes+Holdings;Automating+workflows+with+AI;Building+Loom+%E2%80%94+local-first+AI+memory;Homelabber+%C2%B7+Proxmox+%C2%B7+Self-hosting" alt="Typing SVG" />
 </a>
 
 **Software · Automation · Homelabbing · Hardware**
@@ -18,7 +18,7 @@
 
 ### 👋 About Me
 
-I'm an **AI Associate at Reyes Holdings**, where I use AI to streamline and automate business processes — building skills and workflows on the **[OneReach.ai](https://onereach.ai)** platform. Outside of work I build self-hosted tools, run a homelab, and tinker with local LLMs.
+I'm an **AI Associate at Reyes Holdings**, where I use AI to streamline and automate business processes. Outside of work I build self-hosted tools, run a homelab, and tinker with local LLMs.
 
 ---
 
@@ -108,7 +108,7 @@ flowchart LR
 
 ### 🚀 What I'm Working On
 
-- 💼 &nbsp;Automating business processes as an **AI Associate at Reyes Holdings** with **OneReach.ai**
+- 💼 &nbsp;Automating business processes as an **AI Associate at Reyes Holdings**
 - 🧵 &nbsp;Building **[Loom](https://github.com/Mpawlowski5467/Loom)** — a local-first AI memory system with a multi-agent backend
 - 🏟️ &nbsp;Shipping **[SportsDash](https://github.com/Mpawlowski5467/SportsDash)** — a self-hosted sports dashboard for ten sports
 - 🤖 &nbsp;Self-hosting local LLMs on an **RTX 3060 12GB**
