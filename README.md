@@ -3,7 +3,7 @@
 # Mateusz Pawlowski
 
 <a href="https://github.com/Mpawlowski5467">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Associate+%40+Reyes+Holdings;Automating+workflows+with+OneReach.ai;Building+Loom+%E2%80%94+local-first+AI+memory;Homelabber+%C2%B7+Proxmox+%C2%B7+Self-hosting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+Associate+%40+Reyes+Holdings;Automating+workflows+with+AI;Building+Loom+%E2%80%94+local-first+AI+memory;Homelabber+%C2%B7+Proxmox+%C2%B7+Self-hosting" alt="Typing SVG" />
 </a>
 
 **Software · Automation · Homelabbing · Hardware**
@@ -18,7 +18,7 @@
 
 ### 👋 About Me
 
-I'm an **AI Associate at Reyes Holdings**, where I use AI to streamline and automate business processes — building skills and workflows on the **[OneReach.ai](https://onereach.ai)** platform. Outside of work I build self-hosted tools, run a homelab, and tinker with local LLMs.
+I'm an **AI Associate at Reyes Holdings**, where I use AI to streamline and automate business processes. Outside of work I build self-hosted tools, run a homelab, and tinker with local LLMs.
 
 ---
 
@@ -50,6 +50,25 @@ A self-hosted knowledge engine that turns scattered notes and conversations into
 - **Stack** — FastAPI · LanceDB · React · Sigma.js · Ollama
 
 🔗 **[View the repo →](https://github.com/Mpawlowski5467/Loom)**
+
+---
+
+### 🏟️ SportsDash — Self-Hosted Sports Dashboard
+
+**Ten sports · 50+ leagues · one self-hosted screen.** A single-user dashboard for a wall display, desktop tab, or phone — live scores, calendar, standings, stat leaders, playoff brackets, rosters, news, and a world map of stadiums.
+
+<p align="center">
+  <a href="https://github.com/Mpawlowski5467/SportsDash"><img src="https://raw.githubusercontent.com/Mpawlowski5467/SportsDash/main/docs/screenshots/today.png" alt="SportsDash Today view" width="720" /></a>
+</p>
+
+- **Ten sports** — basketball, baseball, soccer, hockey, football, tennis, MMA, golf, motorsport, and volleyball
+- **Live everything** — auto-refreshing scores, box scores, race and golf leaderboards, and playoff brackets
+- **Push notifications** via ntfy — game starts, finals, and injury alerts for players you follow
+- **Runs anywhere** — `docker compose up` as a server, or a native macOS app with the backend bundled in
+- **Private by design** — no accounts, no tracking, no API keys
+- **Stack** — FastAPI · React · Vite · Bun · PostgreSQL · Redis · MapLibre · Tauri
+
+🔗 **[View the repo →](https://github.com/Mpawlowski5467/SportsDash)**
 
 ---
 
@@ -89,8 +108,19 @@ flowchart LR
 
 ### 🚀 What I'm Working On
 
-- 💼 &nbsp;Automating business processes as an **AI Associate at Reyes Holdings** with **OneReach.ai**
+- 💼 &nbsp;Automating business processes as an **AI Associate at Reyes Holdings**
 - 🧵 &nbsp;Building **[Loom](https://github.com/Mpawlowski5467/Loom)** — a local-first AI memory system with a multi-agent backend
+- 🏟️ &nbsp;Shipping **[SportsDash](https://github.com/Mpawlowski5467/SportsDash)** — a self-hosted sports dashboard for ten sports
 - 🤖 &nbsp;Self-hosting local LLMs on an **RTX 3060 12GB**
 - 🖥️ &nbsp;Expanding the homelab — more self-hosted services on Proxmox
 - 🐧 &nbsp;Daily drivers: **Omarchy** desktop · **MacBook Air M2** · **ThinkPad T14**
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mpawlowski5467/Mpawlowski5467/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mpawlowski5467/Mpawlowski5467/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/Mpawlowski5467/Mpawlowski5467/output/github-snake.svg" />
+  </picture>
+</p>
