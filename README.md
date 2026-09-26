@@ -11,6 +11,12 @@
 
 ---
 
+### 👋 About Me
+
+I'm an intern on the **AI team**, where we use AI to streamline and automate business processes — building skills and workflows on the **[OneReach.ai](https://onereach.ai)** platform. Outside of work I build self-hosted tools, run a homelab, and tinker with local LLMs.
+
+---
+
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -37,7 +43,8 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![MSAL](https://img.shields.io/badge/MSAL-2F2F2F?style=flat-square&logo=microsoft&logoColor=white)
 
-### AI & Inference
+### AI & Automation
+![OneReach.ai](https://img.shields.io/badge/OneReach.ai-1F2937?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6566F1?style=flat-square&logo=openai&logoColor=white)
 
@@ -60,17 +67,14 @@ A self-hosted knowledge engine that turns scattered notes and conversations into
 - **Knowledge graph UI** — React + Sigma.js frontend visualizes memories as an explorable graph
 - **Stack** — FastAPI · LanceDB · React · Sigma.js · Ollama
 
-🔗 **[View the repo →](LOOM_REPO_URL_HERE)**
+🔗 **[View the repo →](https://github.com/Mpawlowski5467/Loom)**
 
 ---
 
-<div align="center">
+### 🚀 What I'm Working On
 
-#### What I'm Working On
-
-🧵 &nbsp; Building **Loom** — a local-first AI memory system with a multi-agent backend
-🤖 &nbsp; Self-hosting local LLMs on 3060 12gb
-🖥️ &nbsp; Running a portable Proxmox homelab — RackMate T1 rack, ThinkCentre M75q node, Pi-hole, WireGuard, Immich
-🐧 &nbsp; Daily drivers: **Omarchy** desktop · **MacBook Air M2** · **ThinkPad T14**
-
-</div>
+- 💼 &nbsp;Interning on the **AI team** — automating processes with skills built on **OneReach.ai**
+- 🧵 &nbsp;Building **[Loom](https://github.com/Mpawlowski5467/Loom)** — a local-first AI memory system with a multi-agent backend
+- 🤖 &nbsp;Self-hosting local LLMs on an **RTX 3060 12GB**
+- 🖥️ &nbsp;Running a portable **Proxmox** homelab — RackMate T1 rack, ThinkCentre M75q node, Pi-hole, WireGuard, Immich
+- 🐧 &nbsp;Daily drivers: **Omarchy** desktop · **MacBook Air M2** · **ThinkPad T14**
