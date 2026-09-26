@@ -74,34 +74,61 @@ A self-hosted knowledge engine that turns scattered notes and conversations into
 
 ### 🖥️ Homelab
 
-A portable, self-hosted lab running on Proxmox.
+A single-node **Proxmox** lab in a portable rack — **17 Docker-in-LXC containers**, one per service, all behind one reverse proxy with a wildcard TLS cert. Nothing is exposed to the internet: everything is reachable on the LAN or over **Tailscale** only. The whole lab is managed as code in a private repo.
 
-<p>
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white" alt="Proxmox" />
-  <img src="https://img.shields.io/badge/Pi--hole-96060C?style=flat-square&logo=pihole&logoColor=white" alt="Pi-hole" />
-  <img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" alt="WireGuard" />
-  <img src="https://img.shields.io/badge/Immich-4250AF?style=flat-square&logo=immich&logoColor=white" alt="Immich" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+<p align="center">
+  <img src="assets/homelab-pixel-village.png" alt="Pixel Village — animated live status view of the homelab" width="720" />
+  <br />
+  <sub>The rack's 1280×400 status panel — one of 14 animated views driven by live lab telemetry</sub>
 </p>
 
-| Component | Details |
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox.svg" width="40" title="Proxmox VE" alt="Proxmox VE" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/pi-hole.svg" width="40" title="Pi-hole" alt="Pi-hole" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/caddy.svg" width="40" title="Caddy" alt="Caddy" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tailscale.svg" width="40" title="Tailscale" alt="Tailscale" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/homarr.svg" width="40" title="Homarr" alt="Homarr" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/uptime-kuma.svg" width="40" title="Uptime Kuma" alt="Uptime Kuma" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/beszel.svg" width="40" title="Beszel" alt="Beszel" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ntfy.svg" width="40" title="ntfy" alt="ntfy" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ookla-speedtest.svg" width="40" title="Speedtest Tracker" alt="Speedtest Tracker" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/immich.svg" width="40" title="Immich" alt="Immich" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/paperless-ngx.svg" width="40" title="Paperless-ngx" alt="Paperless-ngx" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/invoice-ninja.svg" width="40" title="Invoice Ninja" alt="Invoice Ninja" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" width="40" title="n8n" alt="n8n" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/actual-budget.svg" width="40" title="Actual Budget" alt="Actual Budget" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/gitea.svg" width="40" title="Gitea" alt="Gitea" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/syncthing.svg" width="40" title="Syncthing" alt="Syncthing" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ugreen.svg" width="40" title="Ugreen NAS" alt="Ugreen NAS" />
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/backblaze.svg" width="40" title="Backblaze B2" alt="Backblaze B2" />
+</p>
+
+| Hardware | Specs |
 |---|---|
-| **Rack** | RackMate T1 |
-| **Compute node** | Lenovo ThinkCentre M75q — Proxmox VE |
+| **Rack** | RackMate T1 with a 1280×400 status panel |
+| **Node** | Lenovo ThinkCentre M75q — AMD Ryzen 3 PRO 5350GE (4C/8T) · 30 GiB RAM · 447 GB SSD · Proxmox VE 9 |
+| **Storage** | Ugreen NAS — 2 TB NFS for photos, documents, and nightly backups |
 | **GPU** | NVIDIA RTX 3060 12GB — local LLM inference |
-| **Networking** | Pi-hole (DNS / ad-blocking) · WireGuard (remote access) |
-| **Services** | Immich (photo backup) |
+
+| Area | Services |
+|---|---|
+| **Network & access** | Pi-hole (DNS / ad blocking) · Caddy (reverse proxy, Let's Encrypt wildcard) · Tailscale (subnet router + split DNS) |
+| **Monitoring** | Homarr (start page) · Uptime Kuma · Beszel (metrics) · ntfy (push alerts) · Speedtest Tracker · Pixel strip (rack display) |
+| **Apps** | Immich (photos) · Paperless-ngx (OCR'd documents) · Invoice Ninja · n8n (automation) · Actual Budget · Gitea · Syncthing |
+| **Backups** | Nightly vzdump to the NAS → encrypted rclone sync to Backblaze B2, plus automated restore tests |
 
 ```mermaid
 flowchart LR
-    Remote["📱 Remote devices"] -- WireGuard --> Lab
-    subgraph Lab["RackMate T1"]
-        PVE["ThinkCentre M75q<br/>Proxmox VE"]
-        PVE --> PH["Pi-hole"]
-        PVE --> IM["Immich"]
-        PVE --> WG["WireGuard"]
+    remote["📱 Phone / laptop"] -- Tailscale --> caddy
+    lan["💻 LAN device"] -- DNS --> pihole
+    subgraph node["Proxmox node · ThinkCentre M75q"]
+        pihole["Pi-hole"] -- "*.homelab → Caddy" --> caddy["Caddy<br/>reverse proxy"]
+        caddy --> apps["17 LXC containers<br/>Immich · Paperless · n8n · Gitea · …"]
+        mon["Uptime Kuma · Beszel"] --> ntfy["ntfy"]
     end
-    GPU["RTX 3060 12GB<br/>Ollama"] --- Lab
+    apps <-- NFS --> nas[("Ugreen NAS")]
+    nas -- "encrypted nightly" --> b2[("Backblaze B2")]
+    ntfy --> phone["📲 Alerts"]
 ```
 
 ---
@@ -112,7 +139,7 @@ flowchart LR
 - 🧵 &nbsp;Building **[Loom](https://github.com/Mpawlowski5467/Loom)** — a local-first AI memory system with a multi-agent backend
 - 🏟️ &nbsp;Shipping **[SportsDash](https://github.com/Mpawlowski5467/SportsDash)** — a self-hosted sports dashboard for ten sports
 - 🤖 &nbsp;Self-hosting local LLMs on an **RTX 3060 12GB**
-- 🖥️ &nbsp;Expanding the homelab — more self-hosted services on Proxmox
+- 🖥️ &nbsp;Running a **17-container Proxmox homelab** — managed as code, backed up off-site, monitored end to end
 - 🐧 &nbsp;Daily drivers: **Omarchy** desktop · **MacBook Air M2** · **ThinkPad T14**
 
 ---
